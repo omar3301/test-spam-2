@@ -31,7 +31,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content === 'r7'){
-message.channel.send("#rep "+  443168460030345227 )
+message.channel.send("#rep "+ @gosu#2960 )
   }
   if (message.content === 'p7') {
 message.channel.send('#profile')
@@ -50,7 +50,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
    if(message.content === 'r8'){
-message.channel.send("#rep "+  443168460030345227 )
+message.channel.send("#rep "+  @gosu#2960 )
   }
   if (message.content === 'p8') {
 message.channel.send('#profile')
@@ -69,7 +69,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content === 'r9'){
-message.channel.send("#rep "+  443168460030345227 )
+message.channel.send("#rep "+  @gosu#2960 )
   }
   if (message.content === 'p9') {
 message.channel.send('#profile')
@@ -88,7 +88,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content === 'r10'){
-message.channel.send("#rep "+  443168460030345227 )
+message.channel.send("#rep "+  @gosu#2960 )
   }
   if (message.content === 'p10') {
 message.channel.send('#profile')
@@ -107,7 +107,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content === 'r11'){
-message.channel.send("#rep "+  443168460030345227 )
+message.channel.send("#rep "+  @gosu#2960 )
   }
   if (message.content === 'p11') {
 message.channel.send('#profile')
@@ -126,7 +126,7 @@ message.channel.send('#daily')
 message.channel.send('#credits')
   }
   if(message.content === 'r12'){
-message.channel.send("#rep "+  443168460030345227 )
+message.channel.send("#rep "+  @gosu#2960 )
   }
   if (message.content === 'p12') {
 message.channel.send('#profile')
